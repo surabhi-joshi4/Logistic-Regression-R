@@ -1,1 +1,1 @@
-# Health-project-in-R
+# Logistic project in R
